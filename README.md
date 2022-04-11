@@ -15,11 +15,17 @@ forget to use locks, joins, and your timer appropriately)
 directory (don’t forget to use locks, joins, and your timer appropriately)
 3. (5%) For the sixth system, modify the program from homework #4 part two (add timers).
 4. (5%) Add these systems into the discussion in question #4.
+
 Note:
+
  If you don’t turn in the file in the correct format, I will take 10 points off the total score.
+
  If you don’t name the files or methods correctly, I will take 10 points off the total score.
+
  You SHOULD NOT need to use material learned outside this class. If you choose to do so, you
 will earn NO points on this homework.
+
  If someone else turns in your homework, you both get a zero whether or NOT you know each
 other.
+
  Do NOT try to do this last minute!
